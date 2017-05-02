@@ -1,2 +1,2 @@
 # hello-world
-Begning with the traditional Code
+Beginning with the traditional Code
